@@ -1,0 +1,5 @@
+com\example\todolist\config\WebConfig.class
+com\example\todolist\model\Task.class
+com\example\todolist\service\TaskService.class
+com\example\todolist\config\WebAppInitializer.class
+com\example\todolist\controller\TaskController.class
