@@ -37,10 +37,10 @@ Step-by-step setup instructions:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/WongZhengYou/todolistproject.git
 
 # Navigate into project
-cd project-name
+cd project-path
 
 # Build project
 mvn clean install
