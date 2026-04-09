@@ -6,7 +6,7 @@
 
 ## 📖 Description
 
-This system is a simple To-Do List web applications that helps users to manage their daily tasks efficiently by using a very basic CRUD operations and clean UI, this system is for those everyday use excuse to go swipping tiktok instagram, and finally forgot what is their main objective. This system also is my first practice system so dont be too mean to me pls.
+This system is a simple To-Do List web applications that helps users to manage their daily tasks efficiently by using a very basic CRUD operations and clean UI, this system is for those everyday use excuse to go swipping tiktok instagram, and finally forgot what is their main objective. This system also is my first practice system so dont be too mean on me pls.
 
 
 ---
